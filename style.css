@@ -1,0 +1,21 @@
+body {
+   background-color: #faf0e6;
+}
+.header {
+   background-color: #d2b48c;
+   float: left;
+   margin-right: 155px;
+   margin-left: 20px;
+   border-radius: 30px 30px 30px 30px;
+}
+
+.cv__image {
+   text-align: center;
+}
+li {
+   font-size: 14px;
+}
+
+.code {
+   margin-top:0%
+}
